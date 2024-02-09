@@ -1,5 +1,6 @@
 # Projeto.NLW-Expert
-# Mine curso com ROCKETSEAT
+# Mine curso com Rocketseat
+# Desenvolvimento de um quiz
 
 # Tecnologias usadas:
 
